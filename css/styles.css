@@ -49,7 +49,7 @@ nav a:hover {
     width: 100vw;
     margin-left: 0px;
     margin-right: 0px;
-    background-image: url('/images/intelCircuit.jpg');
+    background-image: url('../images/intelCircuit.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -89,7 +89,7 @@ nav a:hover {
     padding: 50px 20px;
     height: 100vh;
     text-align: center;
-    background-image: url('/images/blackboard.jpg');
+    background-image: url('../images/blackboard.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
